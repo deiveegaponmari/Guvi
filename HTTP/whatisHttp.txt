@@ -1,0 +1,10 @@
+What is HTTP?
+HTTP stands for Hyper Text Transfer Protocol.
+HTTP is initiated by Tim Berners Lee at CERN in 1989.
+HTTP helps to transfer the data in network layer.
+HTTP Methods:
+1.Get
+2.post
+3.put
+4.Delete
+5.patch
