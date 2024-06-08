@@ -5,7 +5,7 @@ the world wide web.
 HTTP 1.1 works on the textual format.
 It compress data by itself.
 
-Advantages:
+Advantages of Http 1.1:
 
 1.persistent connections:
 HTTP 1.1 allows multiple requests and responses to be over a 
@@ -29,7 +29,7 @@ combination.
 HTTP1.1 introduces the caching mechanisms,including support for cache validators.Its helps
 to reduce the bandwidth and improve performance.
 
-Disadvantages:
+Disadvantages of Http1.1:
 1.increase complexity(for use modern applications)
 2.Inefficient use of network resources.
 -------
